@@ -1,6 +1,8 @@
-[![MasterHead](https://www.linkedin.com/in/rajesh110/overlay/background-image/)](https://www.linkedin.com/in/rajesh110/overlay/background-image/)
-<h1 align="center">Hi 👋, I'm Rajesh Kayal</h1>
-<h3 align="center">Backend Developer | Crafting Robust Web Solutions</h3>
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFxW4C6643YsQ/profile-displaybackgroundimage-shrink_350_1400/0/1704798854988?e=1710374400&v=beta&t=aHqxgJItZnx17UzWkFZNt8UtuS5gDFd0hOAYldh98lc)](https://www.linkedin.com/in/rajesh110/)
+
+<h1 align="center">Welcome to My Coding Wonderland! 👋</h1>
+<h3 align="center">Crafting Digital Magic | Backend Wizard 🧙‍♂️</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-kayal&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-kayal" /> </p>
@@ -12,15 +14,6 @@
 - Crafting elegant web solutions with Laravel magic.
 - Collaborating on projects with a team of talented developers.
 - Embracing challenges and turning them into learning opportunities.
-
-### 🎯 Tech Arsenal
-
-- Crafting elegant web solutions with Laravel magic.
-- Collaborating on projects with a team of talented developers.
-- Embracing challenges and turning them into learning opportunities.
-
-<!-- Add more sections as needed -->
-
 
 ### 🎯 Tech Arsenal
 
@@ -48,7 +41,7 @@ Jr. Laravel Developer (https://www.ivdisplays.com/)
 [GitHub Repositories](https://github.com/rajesh-kayal?tab=repositories)
 
 ### 💬 Ask me about
-Backend Development, PHP, Laravel, APIs
+Backend Development, PHP, Laravel, Rest API's
 
 ### 🌱 Currently learning
 ReactJS, NextJS, NodeJS
@@ -56,8 +49,8 @@ ReactJS, NextJS, NodeJS
 ### 📫 Reach me
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
 
-### 📄 Experiences
-[Jr. Laravel Developer at IVDISPLAYS DIGITAL SERVICES PRIVATE LIMITED](Jr. Laravel Developer at IVDISPLAYS DIGITAL SERVICES PRIVATE LIMITED)
+### 📄 Experience
+Jr. Laravel Developer at IVDISPLAYS DIGITAL SERVICES PRIVATE LIMITED (currently)
 
 ### ⚡ Fun fact
 I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
