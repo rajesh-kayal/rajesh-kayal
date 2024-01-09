@@ -22,7 +22,7 @@
 - Embracing challenges and turning them into learning opportunities.
 
 ### 🚀 Current Role
-Jr. Laravel Developer (https://www.ivdisplays.com/)
+Jr. Laravel Developer
 
 ### 🌐 Responsibilities
 
@@ -50,7 +50,7 @@ ReactJS, NextJS, NodeJS
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
 
 ### 📄 Experience
-Jr. Laravel Developer at IVDISPLAYS DIGITAL SERVICES PRIVATE LIMITED (currently)
+Jr. Laravel Developer at  (https://www.ivdisplays.com/) (currently)
 
 ### ⚡ Fun fact
 I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
