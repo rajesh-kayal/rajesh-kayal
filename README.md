@@ -9,11 +9,6 @@
 
 🎓 **Currently studying Master of Computer Applications**
 
-### 🌐 Responsibilities
-
-- Crafting elegant web solutions with Laravel magic.
-- Collaborating on projects with a team of talented developers.
-- Embracing challenges and turning them into learning opportunities.
 
 ### 🎯 Tech Arsenal
 
@@ -28,9 +23,9 @@ Jr. Laravel Developer
 
 <p align="center">
 
-- Crafting elegant web solutions with Laravel magic.**
-- Collaborating on projects with a team of talented developers.**
-- Embracing challenges and turning them into learning opportunities.**
+- Crafting elegant web solutions with Laravel magic.
+- Collaborating on projects with a team of talented developers.
+- Embracing challenges and turning them into learning opportunities.
 
 </p>
 
