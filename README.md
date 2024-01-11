@@ -19,15 +19,18 @@
 ### 🚀 Current Role
 Jr. Laravel Developer
 
+<!--
 ### 🌐 Responsibilities
+-->
 
 <p align="center">
-
+<!--
 - Crafting elegant web solutions with Laravel magic.
 - Collaborating on projects with a team of talented developers.
 - Embracing challenges and turning them into learning opportunities.
-
+-->
 </p>
+
 
 ### 🌳 Social links
 [https://linktr.ee/rajesh.kayal](https://linktr.ee/rajesh.kayal)
