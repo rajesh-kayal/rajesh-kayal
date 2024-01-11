@@ -45,7 +45,7 @@ ReactJS, NextJS, NodeJS
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
 
 ### 📄 Experience
-Jr. Laravel Developer at  (https://www.ivdisplays.com/)
+Jr. Laravel Developer 
 
 ### ⚡ Fun fact
 I once debugged a production issue by following a trail of coffee cups. It turns out, the bug was caffeinated too! ☕🐞
