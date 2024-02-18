@@ -42,7 +42,7 @@ Jr. Laravel Developer
 Backend Development, PHP, Laravel, Rest API's
 
 ### 🌱 Currently learning
-ReactJS, NextJS, NodeJS
+ReactJS, Java
 
 ### 📫 Reach me
 [rajeshkayal8001@gmail.com](mailto:rajeshkayal8001@gmail.com)
